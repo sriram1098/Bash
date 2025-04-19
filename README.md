@@ -18,4 +18,46 @@ what is Bash Script?
 
 💻 Widely Used in DevOps: Essential for CI/CD pipelines, server scripts, Docker, and cloud operations.
 
+---
+
+## ```Important Points to Remember```
+- echo -- it is a print statement in Bash Scripting
+
+
+---
+---
+
+## 1. `Variables`
+Variables are used to store data. You can assign a value to a variable and access it later in your script.
+
+``` bash
+#!/bin/bash
+name="Sriram"
+echo "$name"
+```
+Output:
+```
+Sriram
+```
+---
+
+## 2.Input and Output: Using Read
+
+```
+#!/bin/bash
+
+echo "what is your name"
+read name
+echo "Nice to Meet you,$name"
+```
+Output:
+
+```
+what is your name
+Sriram
+Nice to Meet you,Sriram
+```
+
+---
+
 
