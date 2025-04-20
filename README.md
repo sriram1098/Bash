@@ -21,8 +21,9 @@ what is Bash Script?
 ---
 
 ## ```Important Points to Remember```
-- echo -- it is a print statement in Bash Scripting
-
+- **echo** -- it is a print statement in Bash Scripting
+- **Conditionals Statements** -- Types **if, if-else,if-elif-else,case(Switch statement)**
+- **Comparsion operators** --  equal to(-eq),not equal(-ne),less than(-lt),less than or equal to(-le),greater than(-gt),greate than or equa(-ge),equality(==),inequality(!=)
 
 ---
 ---
@@ -41,7 +42,7 @@ Sriram
 ```
 ---
 
-## 2.Input and Output: Using Read
+## 2.`Input and Output: Using Read`
 
 ```
 #!/bin/bash
